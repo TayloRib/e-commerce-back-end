@@ -12,7 +12,7 @@ None
 
 ## Usage
 
-User can utilize the application to view/create new categories, products, and Tags; save them, edit them, delete them, and reference them later through inquirer.
+User can utilize the application to view/create new categories, products, and Tags; save them, edit them, delete them, and reference them later through node/insomnia.
 
 You can find a video on how it works here:
 
